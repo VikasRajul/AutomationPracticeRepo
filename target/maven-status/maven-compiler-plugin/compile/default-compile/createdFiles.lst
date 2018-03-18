@@ -1,0 +1,13 @@
+com\autopract\qa\pages\HomePage.class
+com\autopract\qa\base\TestBase.class
+com\autopract\qa\pages\LoginPage.class
+com\autopract\qa\pages\PaymentPage.class
+com\autopract\qa\pages\SignUp.class
+com\autopract\qa\pages\AddressPage.class
+com\autopract\qa\pages\FinalPage.class
+com\autopract\qa\pages\PrintedDressPage.class
+com\autopract\qa\pages\TshirtsPage.class
+com\autopract\qa\pages\SummaryPage.class
+com\autopract\qa\pages\ShippingPage.class
+com\autopract\qa\util\TestUtil.class
+com\autopract\qa\pages\DressesPage.class

@@ -1,0 +1,9 @@
+com\autopracrt\qa\testcases\AddressPageTest.class
+com\autopracrt\qa\testcases\PaymentPageTest_E2E.class
+com\autopracrt\qa\testcases\SummaryPageTest.class
+com\autopracrt\qa\testcases\LoginPageTest.class
+com\autopracrt\qa\testcases\PrintedDressTest.class
+com\autopracrt\qa\testcases\ShippingPageTest.class
+com\autopracrt\qa\testcases\GitLogin.class
+com\autopracrt\qa\testcases\HomePageTest.class
+com\autopracrt\qa\testcases\DressPageTest.class
